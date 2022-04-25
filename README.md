@@ -1,2 +1,2 @@
 # Davaleba---2-
-Meore davalebis repository 
+ეს არის Apple Store ალტერნატიული ვებ-საიტი 
